@@ -17,6 +17,7 @@
   * [购买权益包&扩容包教程](huang1111-wang-pan-biao-zhun-ban/biao-zhun-ban-jiao-cheng-mu-lu/gou-mai-quan-yi-bao-kuo-rong-bao-jiao-cheng.md)
   * [转移存储功能教程](huang1111-wang-pan-biao-zhun-ban/biao-zhun-ban-jiao-cheng-mu-lu/zhuan-yi-cun-chu-gong-neng-jiao-cheng.md)
   * [离线下载功能教程](huang1111-wang-pan-biao-zhun-ban/biao-zhun-ban-jiao-cheng-mu-lu/li-xian-xia-zai-gong-neng-jiao-cheng.md)
+  * [文件直链功能教程](huang1111-wang-pan-biao-zhun-ban/biao-zhun-ban-jiao-cheng-mu-lu/wen-jian-zhi-lian-gong-neng-jiao-cheng.md)
 
 ## huang1111网盘无广告版
 
