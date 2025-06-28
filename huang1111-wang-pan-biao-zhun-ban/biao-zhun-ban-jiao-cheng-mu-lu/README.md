@@ -16,3 +16,5 @@ description: 此处将会包含当前所有的使用教程
 
 ### 2、[离线下载功能教程](li-xian-xia-zai-gong-neng-jiao-cheng.md)
 
+### 3、[文件直链功能教程](wen-jian-zhi-lian-gong-neng-jiao-cheng.md)
+
